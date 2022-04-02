@@ -1,1 +1,3 @@
 It contains deploy files....
+deploy.sh is updated by using the below command 
+git pull fbu master
